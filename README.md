@@ -22,7 +22,8 @@
 
 ## Screenshots
 
-[Include screenshots of your app here if applicable]
+<img width="402" alt="image" src="https://github.com/dev-aliawan/Flutter_Draggable_ListView/assets/119912251/5f9f1f88-3556-404c-8d35-75dca492f196">
+
 
 ## Contributing
 
