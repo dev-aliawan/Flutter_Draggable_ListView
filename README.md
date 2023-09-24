@@ -1,16 +1,46 @@
-# flutter_draggable_listview
+# FlutterDraggableListView
 
-FlutterDraggableListView is a Flutter app that lets you make lists easily. You can move items around by holding and dragging them, and the order stays the same even if you close and reopen the app. It's a handy tool for creating and managing lists in Flutter.
+**FlutterDraggableListView** is a simple Flutter app that allows you to create and manage lists with draggable items. You can reorder items by holding and dragging them to your preferred position. The best part? The order of your list items is saved, even if you close and reopen the app.
+
+## Features
+
+- Create and manage lists effortlessly.
+- Rearrange list items by dragging and dropping.
+- Persistent item order, ensuring your changes are saved.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Clone this repository.
+2. Open it in your preferred Flutter development environment.
+3. Run the app on your emulator or physical device.
 
-A few resources to get you started if this is your first Flutter project:
+## Usage
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Open the app to view your list.
+- Long-press on an item and drag it to rearrange.
+- Enjoy the convenience of persistent item order.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
+<img width="402" alt="image" src="https://github.com/dev-aliawan/Flutter_Draggable_ListView/assets/119912251/5f9f1f88-3556-404c-8d35-75dca492f196">
+
+
+## Contributing
+
+Contributions are welcome! If you'd like to enhance or fix issues in the project, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them with clear messages.
+4. Submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+
+If you have any questions or suggestions, feel free to reach out to Muhammad Ali:
+
+- WhatsApp: [+92316159912](https://wa.me/92316159912)
+- Email: [dev.aliawan@gmail.com](mailto:dev.aliawan@gmail.com)
